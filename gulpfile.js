@@ -15,7 +15,7 @@ gulp.task('nunjucks', function() {
         .pipe(nunjucksRender({
             path: ['src/templates/']
         }))
-        .pipe(gulp.dest('src'))
+        .pipe(gulp.dest('build'))
 });
 
 gulp.task('sass', function() {
