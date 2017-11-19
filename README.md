@@ -16,4 +16,5 @@ A mock-up that needs to be implemented into html/css/js.
 It's time to build a project! Run the following commands in Terminal (don't forget to be in the project folder).
 * `npm install`
 * `gulp build`
+
 Congratulations! You've just compiled the project and have it in `build` folder.
