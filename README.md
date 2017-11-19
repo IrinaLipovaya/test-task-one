@@ -18,3 +18,5 @@ It's time to build a project! Run the following commands in Terminal (don't forg
 * `gulp build`
 
 Congratulations! You've just compiled the project and have it in `build` folder.
+
+*Btw, the design implementation is fully responsive. Sometimes you don't have any instructions/mock-ups how to make a design look good for tablet/mobile screen sizes. Just rely on your logic and UX knowledge :)*
