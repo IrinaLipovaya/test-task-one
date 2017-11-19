@@ -1,0 +1,14 @@
+{% block gallery %}
+<div class="gallery">
+    {% for image in images %}
+    <div class="item-wrapper">
+        <div class="item">
+            <img src="{{imageFolder}}/{{image.src}}" alt="{{image.alt}}">
+            <p>{{image.title}}</p>
+            <p class="author">by {{image.author}}</p>
+        </div>
+    </div>
+    {% endfor %}
+    <div class="clearfix"></div>
+</div>
+{% endblock %}

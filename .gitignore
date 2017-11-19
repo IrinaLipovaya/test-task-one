@@ -1,2 +1,12 @@
+# Logs
+npm-debug.log*
+
+# Compiled files
+build/*
+!build/.gitkeep
+
+# Dependency directories
+node_modules
+
 #IDE project configuration files
 .idea

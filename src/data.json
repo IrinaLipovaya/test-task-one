@@ -1,0 +1,79 @@
+{
+    "imageFolder": "./images",
+    "images": [{
+        "src": "product_1.jpg",
+        "alt": "Product one alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_2.jpg",
+        "alt": "Product two alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_3.jpg",
+        "alt": "Product three alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_4.jpg",
+        "alt": "Product four alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_5.jpg",
+        "alt": "Product five alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_6.jpg",
+        "alt": "Product six alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_7.jpg",
+        "alt": "Product seven alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_8.jpg",
+        "alt": "Product eight alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_9.jpg",
+        "alt": "Product nine alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_10.jpg",
+        "alt": "Product ten alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_11.jpg",
+        "alt": "Product eleven alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_12.jpg",
+        "alt": "Product twelve alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_13.jpg",
+        "alt": "Product thirteen alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_14.jpg",
+        "alt": "Product fourteen alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }, {
+        "src": "product_15.jpg",
+        "alt": "Product fifteen alt text",
+        "title": "lorem ipsum",
+        "author": "random author"
+    }]
+}

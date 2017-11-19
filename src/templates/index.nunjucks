@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Westeros</title>
+    <link rel="stylesheet" href="css/styles.css" type="text/css">
+</head>
+<body>
+<header>
+    <div class="logo">
+        <a href="#">Westeros</a>
+        <a href="#" class="mobile-menu-button"></a>
+    </div>
+    <div class="top-panel">
+        <div class="search-wrapper">
+            <input type="text" placeholder="Type to Search...">
+        </div>
+        <div class="user-wrapper">
+            <span class="icon"></span>
+            <span class="name">Lorem ipsum</span>
+        </div>
+    </div>
+</header>
+
+<div class="content-wrapper">
+    <nav>
+        <ul>
+            <li class="products"><a href="">Products</a></li>
+            <li class="whiteslists"><a href="">Whiteslists</a></li>
+            <li class="application"><a href="">Api Application</a></li>
+        </ul>
+    </nav>
+
+    <div class="content">
+        <div class="title">
+            <h2>Products</h2>
+        </div>
+        {% include 'partials/gallery.nunjucks' %}
+    </div>
+</div>
+<script type="application/javascript" src="js/main.js"></script>
+</body>
+</html>
